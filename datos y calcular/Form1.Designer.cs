@@ -116,7 +116,7 @@ namespace datos_y_calcular
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Pracica form1";
+            this.Text = "Practica form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
